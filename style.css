@@ -9,7 +9,7 @@
 
 body
 {
-  background-color: #001c1c;
+  background-color: #ffffff;
   padding: 20px;
 }
 
@@ -18,7 +18,7 @@ section,
 footer
 {
   text-align: center;
-  background-color: #666666;
+  background-color:#3c2c5c;
   border-radius: 15px;
   padding:30px;
 }
@@ -56,7 +56,7 @@ body{
 #nave_wrapper{
   width:1100px;
   height:80px;
-  background:#377D7A;
+  background:#cf1111;
   margin-left:auto;
   margin-right:auto; 
   margin-top:0px;
@@ -78,10 +78,10 @@ body{
 }
 /*seleccion menu*/
 #nave_wrapper ul li:hover{
-  background:#22e5db;
+  background:#9c94b4;
   transition:all 0.45s;
   opacity:0.9s;
-  border-radius: 15px;
+  border-radius: 10px;
   filter:alpha (opacity=90)/*IE8 earlier */ 
     
 }
@@ -99,6 +99,7 @@ section
 footer
 {
   clear: both;
+  color: #ffffff;
   
 }
 
@@ -233,7 +234,6 @@ footer
   height: 90px;
   
  }
-
 
 
 
